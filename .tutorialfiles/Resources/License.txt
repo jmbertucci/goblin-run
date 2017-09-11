@@ -1,0 +1,20 @@
+--------------------------------
+---         GRAPHICS         ---
+--------------------------------
+Graphics in folder _RES\Sprites and its subfolders was made for book "Procedural endless runner in Phaser with Typescript" by Tomáš Kopecký (aka flyboj) from www.littlecolor.com.
+Visit his portfolio at http://www.littlecolor.com/portfolio/.
+
+--------------------------------
+---          MUSIC           ---
+--------------------------------
+Music in folder _RES\Sound\Music original\ was composed by sawsquarenoise and is licensed under Creative Commons Attribution 4.0 International license (CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/)
+Music was downloaded from http://freemusicarchive.org/music/sawsquarenoise/ and two tracks from album RottenMage SpaceJacked OST were used:
+ * sawsquarenoise_-_05_-_OST_05_Go_Go_Go.mp3
+ * sawsquarenoise_-_07_-_OST_07_Lets_Rest.mp3
+No changes were made into original tracks except for conversion into .ogg and .m4a formats.
+
+--------------------------------
+---          FONT            ---
+--------------------------------
+Font KOMIKAX_.ttf in folder _RES\Font is free Komika Poster font by Apostrophic Labs.
+Font was downloaded from http://www.1001freefonts.com/komika_poster.font

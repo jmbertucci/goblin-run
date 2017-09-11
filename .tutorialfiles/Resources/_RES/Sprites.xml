@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project ExportFormat="JSON - Texture Packer" ExportNormalMap="false" POTTexture="true" littleEndian="true" name="Sprites" padding="1" spriteBorder="true" xscale="1.0" yscale="1.0">
+    <!--SpriteSet: Sprites/BlockBottomLeft.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockBottomLeft.png">
+        <Sprite name="BlockBottomLeft" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -32</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockBottomMiddle.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockBottomMiddle.png">
+        <Sprite name="BlockBottomMiddle" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -32</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockBottomRight.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockBottomRight.png">
+        <Sprite name="BlockBottomRight" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -32</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockMiddleLeft.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockMiddleLeft.png">
+        <Sprite name="BlockMiddleLeft" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -32</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockMiddleMiddle.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockMiddleMiddle.png">
+        <Sprite name="BlockMiddleMiddle" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -32</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockMiddleRight.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockMiddleRight.png">
+        <Sprite name="BlockMiddleRight" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -32</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockTopLeft.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockTopLeft.png">
+        <Sprite name="BlockTopLeft" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockTopMiddle.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockTopMiddle.png">
+        <Sprite name="BlockTopMiddle" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/BlockTopRight.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/BlockTopRight.png">
+        <Sprite name="BlockTopRight" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Empty.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Empty.png">
+        <Sprite name="Empty" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">0; 0</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Gold.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Gold.png">
+        <Sprite name="Gold" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-21; -23</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/LowBlockLeft.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/LowBlockLeft.png">
+        <Sprite name="LowBlockLeft" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/LowBlockMiddle.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/LowBlockMiddle.png">
+        <Sprite name="LowBlockMiddle" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/LowBlockRight.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/LowBlockRight.png">
+        <Sprite name="LowBlockRight" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/PlatformLeft.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/PlatformLeft.png">
+        <Sprite name="PlatformLeft" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/PlatformMiddle.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/PlatformMiddle.png">
+        <Sprite name="PlatformMiddle" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/PlatformRight.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/PlatformRight.png">
+        <Sprite name="PlatformRight" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -40</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Spikes1.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Spikes1.png">
+        <Sprite name="Spikes1" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-31; -16</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Spikes2.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Spikes2.png">
+        <Sprite name="Spikes2" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-31; -22</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Spikes3.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Spikes3.png">
+        <Sprite name="Spikes3" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-31; -27</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Spikes4.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Spikes4.png">
+        <Sprite name="Spikes4" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-31; -26</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Tree.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Tree.png">
+        <Sprite name="Tree" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-173; -249</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus0.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus0.png">
+        <Sprite name="Bonus0" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -26</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus1.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus1.png">
+        <Sprite name="Bonus1" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -28</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus2.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus2.png">
+        <Sprite name="Bonus2" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -29</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus3.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus3.png">
+        <Sprite name="Bonus3" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -30</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus4.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus4.png">
+        <Sprite name="Bonus4" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -31</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus5.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus5.png">
+        <Sprite name="Bonus5" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -24</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus6.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus6.png">
+        <Sprite name="Bonus6" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -23</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus7.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus7.png">
+        <Sprite name="Bonus7" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -22</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Bonus8.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Bonus8.png">
+        <Sprite name="Bonus8" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -21</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/GoldUI.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/GoldUI.png">
+        <Sprite name="GoldUI" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-36; -26</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/GoldParticle.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/GoldParticle.png">
+        <Sprite name="GoldParticle" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-11; -11</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/MudParticle0.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/MudParticle0.png">
+        <Sprite name="MudParticle0" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-11; -11</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/MudParticle1.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/MudParticle1.png">
+        <Sprite name="MudParticle1" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-10; -11</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/arm1.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/arm1.png">
+        <Sprite name="arm1" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-14; -10</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/arm2.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/arm2.png">
+        <Sprite name="arm2" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-14; -10</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/body.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/body.png">
+        <Sprite name="body" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-20; -17</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/head.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/head.png">
+        <Sprite name="head" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-44; -32</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/leg1.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/leg1.png">
+        <Sprite name="leg1" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-17; -11</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/leg2.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/leg2.png">
+        <Sprite name="leg2" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-18; -10</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/mud1.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/mud1.png">
+        <Sprite name="mud1" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-29; -21</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Goblin/mud2.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Goblin/mud2.png">
+        <Sprite name="mud2" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-32; -12</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/DustParticle.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/DustParticle.png">
+        <Sprite name="DustParticle" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-15; -13</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Shadow.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Shadow.png">
+        <Sprite name="Shadow" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-24; -6</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Record.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Record.png">
+        <Sprite name="Record" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-5; -287</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Logo.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Logo.png">
+        <Sprite name="Logo" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-205; -177</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Sound_off.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Sound_off.png">
+        <Sprite name="Sound_off" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-37; -37</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Sound_on.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Sound_on.png">
+        <Sprite name="Sound_on" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-37; -37</Point>
+        </Sprite>
+    </SpriteSet>
+    <!--SpriteSet: Sprites/Start.png-->
+    <SpriteSet border="false" excludeFromExport="false" font="false" name="Sprites/Start.png">
+        <Sprite name="Start" xscale="1.0" yscale="1.0">
+            <Point bytesize="2" name="Offset">-62; -66</Point>
+        </Sprite>
+    </SpriteSet>
+</Project>

@@ -1,0 +1,24 @@
+d:\MyHTML5Apps\Goblin run\Chapter 2\GoblinRun\bin\GoblinRun.dll.config
+d:\MyHTML5Apps\Goblin run\Chapter 2\GoblinRun\bin\GoblinRun.dll
+d:\MyHTML5Apps\Goblin run\Chapter 2\GoblinRun\bin\GoblinRun.pdb
+d:\MyHTML5Apps\Goblin run\Chapter 2\GoblinRun\obj\Debug\GoblinRun.csprojResolveAssemblyReference.cache
+d:\MyHTML5Apps\Goblin run\Chapter 2\GoblinRun\obj\Debug\GoblinRun.dll
+d:\MyHTML5Apps\Goblin run\Chapter 2\GoblinRun\obj\Debug\GoblinRun.pdb
+d:\MyHTML5Apps\Goblin run\Chapter 3\GoblinRun\bin\GoblinRun.dll.config
+d:\MyHTML5Apps\Goblin run\Chapter 3\GoblinRun\bin\GoblinRun.dll
+d:\MyHTML5Apps\Goblin run\Chapter 3\GoblinRun\bin\GoblinRun.pdb
+d:\MyHTML5Apps\Goblin run\Chapter 3\GoblinRun\obj\Debug\GoblinRun.csprojResolveAssemblyReference.cache
+d:\MyHTML5Apps\Goblin run\Chapter 3\GoblinRun\obj\Debug\GoblinRun.dll
+d:\MyHTML5Apps\Goblin run\Chapter 3\GoblinRun\obj\Debug\GoblinRun.pdb
+d:\MyHTML5Apps\Goblin run\Chapter 4\GoblinRun\bin\GoblinRun.dll.config
+d:\MyHTML5Apps\Goblin run\Chapter 4\GoblinRun\bin\GoblinRun.dll
+d:\MyHTML5Apps\Goblin run\Chapter 4\GoblinRun\bin\GoblinRun.pdb
+d:\MyHTML5Apps\Goblin run\Chapter 4\GoblinRun\obj\Debug\GoblinRun.csprojResolveAssemblyReference.cache
+d:\MyHTML5Apps\Goblin run\Chapter 4\GoblinRun\obj\Debug\GoblinRun.dll
+d:\MyHTML5Apps\Goblin run\Chapter 4\GoblinRun\obj\Debug\GoblinRun.pdb
+d:\MyHTML5Apps\GoblinRun\Chapter 04\GoblinRun\bin\GoblinRun.dll.config
+d:\MyHTML5Apps\GoblinRun\Chapter 04\GoblinRun\bin\GoblinRun.dll
+d:\MyHTML5Apps\GoblinRun\Chapter 04\GoblinRun\bin\GoblinRun.pdb
+d:\MyHTML5Apps\GoblinRun\Chapter 04\GoblinRun\obj\Debug\GoblinRun.csprojResolveAssemblyReference.cache
+d:\MyHTML5Apps\GoblinRun\Chapter 04\GoblinRun\obj\Debug\GoblinRun.dll
+d:\MyHTML5Apps\GoblinRun\Chapter 04\GoblinRun\obj\Debug\GoblinRun.pdb

@@ -1,0 +1,6 @@
+d:\MyHTML5Apps\GoblinRun\Chapter 18\GoblinRun\obj\Debug\GoblinRun.csprojResolveAssemblyReference.cache
+d:\MyHTML5Apps\GoblinRun\Chapter 18\GoblinRun\bin\GoblinRun.dll.config
+d:\MyHTML5Apps\GoblinRun\Chapter 18\GoblinRun\bin\GoblinRun.dll
+d:\MyHTML5Apps\GoblinRun\Chapter 18\GoblinRun\bin\GoblinRun.pdb
+d:\MyHTML5Apps\GoblinRun\Chapter 18\GoblinRun\obj\Debug\GoblinRun.dll
+d:\MyHTML5Apps\GoblinRun\Chapter 18\GoblinRun\obj\Debug\GoblinRun.pdb
